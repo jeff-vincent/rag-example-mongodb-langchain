@@ -1,4 +1,2 @@
-# rag-example-mongodb-langchain
-Example RAG application. 
-
+# rag-example-mongodb-langchain 
 ![alt text](rag.drawio.png)
